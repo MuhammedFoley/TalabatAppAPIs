@@ -1,1 +1,1 @@
-Full simulation for talabt E-Commerce application
+Full simulation for talabt APIs (E-Commerce application)
